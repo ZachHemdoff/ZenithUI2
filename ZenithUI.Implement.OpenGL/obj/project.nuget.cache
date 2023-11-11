@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ROA5rgEe/1hKEyywzAvJWPl6d3++owB8C1hAINO0hgip+8SGW7BR9JbcEdW2uyqGsDUe/sDSUIIofQqTpOwHQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI.Implement.OpenGL\\ZenithUI.Implement.OpenGL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.android.ref.31\\32.0.509\\microsoft.android.ref.31.32.0.509.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net2.0;netstandard2.0;netstandard2.1;net4.8;net4.0</TargetFrameworks>
+    <RootNamespace>LunaSoft.Explorer__.Shared</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LunaSoft.CommonObjects\LunaSoft.CommonObjects.csproj" />
+    <ProjectReference Include="..\ZenithUI\ZenithUI.csproj" />
+  </ItemGroup>
+
+</Project>

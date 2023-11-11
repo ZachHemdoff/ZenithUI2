@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ZenithUI.Implement.Vulkan/2024.0.15.8": {
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0",
+          "ZenithUI": "2024.0.15.8",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.29"
+        },
+        "runtime": {
+          "ZenithUI.Implement.Vulkan.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.29": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.19041.24",
+            "fileVersion": "10.0.19041.29"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.3.42921"
+          }
+        }
+      },
+      "LunaSoft.CommonObjects/1.0.0": {
+        "runtime": {
+          "LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "runtime": {
+          "ZenithUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZenithUI.Implement.Vulkan/2024.0.15.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.29": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LunaSoft.CommonObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZenithUI/2024.0.15.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

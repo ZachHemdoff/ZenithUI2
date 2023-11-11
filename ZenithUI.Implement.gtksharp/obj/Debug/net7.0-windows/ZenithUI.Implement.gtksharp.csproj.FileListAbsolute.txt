@@ -1,0 +1,13 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.deps.json
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\refint\ZenithUI.Implement.gtksharp.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ref\ZenithUI.Implement.gtksharp.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.gtksharp\obj\Debug\net7.0-windows\ZenithUI.Implement.gtksharp.csproj.CopyComplete

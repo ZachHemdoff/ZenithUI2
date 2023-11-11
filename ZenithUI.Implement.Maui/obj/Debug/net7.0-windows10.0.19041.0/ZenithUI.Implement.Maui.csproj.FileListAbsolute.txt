@@ -1,0 +1,13 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.Maui.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.Maui.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.Maui.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.Maui.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.Maui.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.uap10.0.19041.deps.json
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.uap10.0.19041.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.uap10.0.19041.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.uap10.0.19041.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\refint\ZenithUI.Implement.uap10.0.19041.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.uap10.0.19041.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ref\ZenithUI.Implement.uap10.0.19041.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Maui\obj\Debug\net7.0-windows10.0.19041.0\ZenithUI.Implement.Maui.csproj.CopyComplete

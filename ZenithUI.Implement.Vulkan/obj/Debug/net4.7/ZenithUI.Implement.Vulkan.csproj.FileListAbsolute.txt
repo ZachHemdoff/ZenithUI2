@@ -1,0 +1,10 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net4.7\ZenithUI.Implement.Vulkan.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net4.7\ZenithUI.Implement.Vulkan.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Vulkan\obj\Debug\net4.7\ZenithUI.Implement.Vulkan.csproj.CopyComplete

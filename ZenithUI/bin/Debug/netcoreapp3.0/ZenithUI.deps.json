@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ZenithUI/2024.0.15.8": {
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "runtime": {
+          "ZenithUI.dll": {}
+        }
+      },
+      "LunaSoft.CommonObjects/1.0.0": {
+        "runtime": {
+          "LunaSoft.CommonObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZenithUI/2024.0.15.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LunaSoft.CommonObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

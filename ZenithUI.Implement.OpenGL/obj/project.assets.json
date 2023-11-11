@@ -1,0 +1,693 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.1",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.1",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8.1": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    "net6.0-android31.0": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    "net6.0-windows10.0.19041": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    "net7.0-android33.0": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041": {
+      "LunaSoft.CommonObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZenithUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZenithUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LunaSoft.CommonObjects/1.0.0": {
+      "type": "project",
+      "path": "../../LunaSoft.CommonObjects/LunaSoft.CommonObjects.csproj",
+      "msbuildProject": "../../LunaSoft.CommonObjects/LunaSoft.CommonObjects.csproj"
+    },
+    "ZenithUI/2024.0.15.8": {
+      "type": "project",
+      "path": "../ZenithUI/ZenithUI.csproj",
+      "msbuildProject": "../ZenithUI/ZenithUI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.5": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.6": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.7": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.7.1": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.7.2": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.8": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    ".NETFramework,Version=v4.8.1": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    "net6.0-android31.0": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    "net6.0-windows10.0.19041": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    "net7.0-android33.0": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ],
+    "net7.0-windows10.0.19041": [
+      "LunaSoft.CommonObjects >= 1.0.0",
+      "ZenithUI >= 2024.0.15.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\soere\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "2024.0.15.8",
+    "restore": {
+      "projectUniqueName": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI.Implement.OpenGL\\ZenithUI.Implement.OpenGL.csproj",
+      "projectName": "ZenithUI.Implement.OpenGL",
+      "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI.Implement.OpenGL\\ZenithUI.Implement.OpenGL.csproj",
+      "packagesPath": "C:\\Users\\soere\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI.Implement.OpenGL\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\soere\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net4.0",
+        "net4.5",
+        "net4.6",
+        "net4.7",
+        "net4.7.1",
+        "net4.7.2",
+        "net4.8",
+        "net4.8.1",
+        "net6.0-android",
+        "net6.0-windows10.0.19041.0",
+        "net7.0-android",
+        "net7.0-windows10.0.19041.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-android31.0": {
+          "targetAlias": "net6.0-android",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net7.0-android33.0": {
+          "targetAlias": "net7.0-android",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net7.0-windows10.0.19041": {
+          "targetAlias": "net7.0-windows10.0.19041.0",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net40": {
+          "targetAlias": "net4.0",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net45": {
+          "targetAlias": "net4.5",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net46": {
+          "targetAlias": "net4.6",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net47": {
+          "targetAlias": "net4.7",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net471": {
+          "targetAlias": "net4.7.1",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net48": {
+          "targetAlias": "net4.8",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        },
+        "net481": {
+          "targetAlias": "net4.8.1",
+          "projectReferences": {
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\LunaSoft.CommonObjects\\LunaSoft.CommonObjects.csproj"
+            },
+            "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj": {
+              "projectPath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI\\ZenithUI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-android31.0": {
+        "targetAlias": "net6.0-android",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Android.Ref.31",
+            "version": "[32.0.509, 32.0.509]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.Android": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net6.0-windows10.0.19041": {
+        "targetAlias": "net6.0-windows10.0.19041.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.29, 10.0.19041.29]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-android33.0": {
+        "targetAlias": "net7.0-android",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.Android": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-windows10.0.19041": {
+        "targetAlias": "net7.0-windows10.0.19041.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.29, 10.0.19041.29]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net40": {
+        "targetAlias": "net4.0",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net45": {
+        "targetAlias": "net4.5",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net46": {
+        "targetAlias": "net4.6",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net47": {
+        "targetAlias": "net4.7",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net471": {
+        "targetAlias": "net4.7.1",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net472": {
+        "targetAlias": "net4.7.2",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net48": {
+        "targetAlias": "net4.8",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      },
+      "net481": {
+        "targetAlias": "net4.8.1",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

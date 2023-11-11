@@ -1,0 +1,13 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\netstandard2.0\ZenithUI.deps.json
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\netstandard2.0\ZenithUI.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\netstandard2.0\ZenithUI.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\netstandard2.0\LunaSoft.CommonObjects.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\netstandard2.0\LunaSoft.CommonObjects.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\obj\Debug\netstandard2.0\ZenithUI.csproj.CopyComplete

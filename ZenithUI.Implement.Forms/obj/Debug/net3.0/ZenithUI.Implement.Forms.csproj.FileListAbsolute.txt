@@ -1,0 +1,10 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net3.0\ZenithUI.Implement.Forms.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net3.0\ZenithUI.Implement.Forms.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.csproj.CopyComplete
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Forms\obj\Debug\net3.0\ZenithUI.Implement.Forms.pdb

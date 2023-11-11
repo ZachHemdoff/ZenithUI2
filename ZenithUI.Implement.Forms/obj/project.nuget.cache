@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVU76KA7CBPeIhAVaFd4Aaz50RtiZX6ArK/d4L2NYrskL+MsdPr0UrCXWPCHdkrpuDedcv5wM5yaM2p7fijDQQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI.Implement.Forms\\ZenithUI.Implement.Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net35\\1.0.3\\microsoft.netframework.referenceassemblies.net35.1.0.3.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

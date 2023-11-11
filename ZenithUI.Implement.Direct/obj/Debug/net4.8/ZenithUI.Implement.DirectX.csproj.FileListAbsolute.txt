@@ -1,0 +1,10 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net4.8\ZenithUI.Implement.DirectX.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin\Debug\net4.8\ZenithUI.Implement.DirectX.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI.Implement.Direct\obj\Debug\net4.8\ZenithUI.Implement.DirectX.csproj.CopyComplete

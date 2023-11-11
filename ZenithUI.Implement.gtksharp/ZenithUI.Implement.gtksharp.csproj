@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFrameworks>net2.0;net3.0;net3.5;net4.0;net4.5;net4.6;net4.6;net4.7;net4.7.1;net4.7.2;net4.8;net4.8.1;netcoreapp3.1;net5.0-windows;net6.0-windows;net7.0-windows;</TargetFrameworks>
+	  <BaseOutputPath>E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin</BaseOutputPath>
+	  <Version>2024.0.15.8</Version>
+	  <AssemblyVersion>$(Version)</AssemblyVersion>
+	  <FileVersion>$(Version)</FileVersion>
+	  <ProductVersion>$(Version)</ProductVersion>
+	  <Company>LunaSoft.dk</Company>
+	  <Authors>$(Company)</Authors>
+	  <Product>LunaSoft.dk ZenithUI</Product>
+	  <ProductName>$(Product)</ProductName>
+	  <Copyright>Copyright ©LunaSoft.dk 2018 -  2023</Copyright>
+	  <RootNamespace>ZenithUI</RootNamespace>
+	  <DefineConstants>$(DefineConstants);_FORM_;_GTK_</DefineConstants>
+	  <UseWindowsForms>true</UseWindowsForms>
+
+  </PropertyGroup>
+	
+	<ItemGroup Condition="'$(TargetFramework)' =='net2.0'">
+		<Reference Include="System.Windows.Forms" />
+	</ItemGroup>
+
+	<ItemGroup>
+    <Compile Include="..\ZenithUI.Implement.Forms\Forms\Grip.cs" Link="Forms\Grip.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LunaSoft.CommonObjects\LunaSoft.CommonObjects.csproj" />
+    <ProjectReference Include="..\ZenithUI\ZenithUI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Forms\" />
+  </ItemGroup>
+
+</Project>

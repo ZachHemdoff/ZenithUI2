@@ -1,0 +1,14 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\bin\Debug\net4.0\LunaSoft.Explorer++.Shared.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\bin\Debug\net4.0\LunaSoft.Explorer++.Shared.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\bin\Debug\net4.0\LunaSoft.CommonObjects.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\bin\Debug\net4.0\ZenithUI.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\bin\Debug\net4.0\LunaSoft.CommonObjects.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\bin\Debug\net4.0\ZenithUI.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.csproj.AssemblyReference.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.csproj.CopyComplete
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\LunaSoft.Explorer++.Shared\obj\Debug\net4.0\LunaSoft.Explorer++.Shared.pdb

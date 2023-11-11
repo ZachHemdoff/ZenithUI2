@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFrameworks>net4.0;net4.5;net4.6;net4.6;net4.7;net4.7.1;net4.7.2;net4.8;net4.8.1;netstandard1.6;netstandard2.0;netcoreapp1.0;netcoreapp2.0;netcoreapp3.0;netcoreapp3.1;net6.0-windows;net7.0-windows;net6.0-android;net7.0-android</TargetFrameworks>
+	  <TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net6.0-windows10.0.19041.0;net7.0-windows10.0.19041.0</TargetFrameworks>
+	  <BaseOutputPath>E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\ZenithUI\ZenithUI\bin</BaseOutputPath>
+	  <Version>2024.0.15.8</Version>
+	  <AssemblyVersion>$(Version)</AssemblyVersion>
+	  <FileVersion>$(Version)</FileVersion>
+	  <ProductVersion>$(Version)</ProductVersion>
+	  <Company>LunaSoft.dk</Company>
+	  <Authors>$(Company)</Authors>
+	  <Product>LunaSoft.dk ZenithUI</Product>
+	  <ProductName>$(Product)</ProductName>
+	  <Copyright>Copyright ©LunaSoft.dk 2018 -  2023</Copyright>
+	  <RootNamespace>ZenithUI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LunaSoft.CommonObjects\LunaSoft.CommonObjects.csproj" />
+    <ProjectReference Include="..\ZenithUI\ZenithUI.csproj" />
+  </ItemGroup>
+
+</Project>

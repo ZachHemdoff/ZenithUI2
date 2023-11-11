@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0TQdKyIrGY9ooZNyPWy5DSvGG1g/F5hmNaCm2QuYjcsdNe8pEN+q6EMCk4NkA8plibKh1JhygTHSV3LduSYJw==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Zach Sørensen\\Documents\\dev\\Projects\\preivew0.2024.0.4\\ZenithUI\\ZenithUI.Implement.gtksharp\\ZenithUI.Implement.gtksharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512",
+    "C:\\Users\\soere\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net35\\1.0.3\\microsoft.netframework.referenceassemblies.net35.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

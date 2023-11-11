@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ZenithUI.Implement.DirectX/2024.0.15.8": {
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0",
+          "ZenithUI": "2024.0.15.8"
+        },
+        "runtime": {
+          "ZenithUI.Implement.DirectX.dll": {}
+        }
+      },
+      "LunaSoft.CommonObjects/1.0.0": {
+        "runtime": {
+          "LunaSoft.CommonObjects.dll": {}
+        }
+      },
+      "ZenithUI/2024.0.15.8": {
+        "dependencies": {
+          "LunaSoft.CommonObjects": "1.0.0"
+        },
+        "runtime": {
+          "ZenithUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZenithUI.Implement.DirectX/2024.0.15.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LunaSoft.CommonObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZenithUI/2024.0.15.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
